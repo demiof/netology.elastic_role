@@ -1,0 +1,6 @@
+---
+  elastic_version: "8.4.0"
+  elastic_home: "/opt/elastic/{{ elastic_version }}"
+  host_platform: "x86_64"
+  elastic_user: elasticsearch
+  elastic_group: elasticsearch
